@@ -91,12 +91,12 @@ chmod +x AI\ Navigator_x.x.x_amd64.AppImage
 
 ```bash
 # Ubuntu / Debian
-sudo apt install libwebkit2gtk-4.1-dev libssl-dev libgtk-3-dev \
-  libayatana-appindicator3-dev librsvg2-dev patchelf
+sudo apt install libwebkit2gtk-4.1-dev libsoup-3.0-dev libjavascriptcoregtk-4.1-dev \
+  libssl-dev libgtk-3-dev libayatana-appindicator3-dev librsvg2-dev patchelf
 
 # Fedora
-sudo dnf install webkit2gtk4.1-devel openssl-devel gtk3-devel \
-  libappindicator-gtk3-devel librsvg2-devel patchelf
+sudo dnf install webkit2gtk4.1-devel libsoup3-devel javascriptcoregtk4.1-devel \
+  openssl-devel gtk3-devel libappindicator-gtk3-devel librsvg2-devel patchelf
 ```
 
 ### Quick start
