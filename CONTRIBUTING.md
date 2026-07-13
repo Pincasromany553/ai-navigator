@@ -6,10 +6,10 @@ AI Navigator is an open-source project that aims to be the most comprehensive de
 
 ## Quick links
 
-- 🐛 [Report a bug](https://github.com/ai-navigator/ai-navigator/issues/new?template=bug_report.md)
-- ✨ [Request a feature](https://github.com/ai-navigator/ai-navigator/issues/new?template=feature_request.md)
-- 📝 [Suggest a new AI/Agent](https://github.com/ai-navigator/ai-navigator/issues/new?template=add_tool.md)
-- 🔧 [Submit a pull request](https://github.com/ai-navigator/ai-navigator/pulls)
+- 🐛 [Report a bug](https://github.com/haotong-Duan/ai-navigator/issues/new?template=bug_report.md)
+- ✨ [Request a feature](https://github.com/haotong-Duan/ai-navigator/issues/new?template=feature_request.md)
+- 📝 [Suggest a new AI/Agent](https://github.com/haotong-Duan/ai-navigator/issues/new?template=add_tool.md)
+- 🔧 [Submit a pull request](https://github.com/haotong-Duan/ai-navigator/pulls)
 
 ## Development setup
 
@@ -155,4 +155,4 @@ This project follows the [Contributor Covenant](https://www.contributor-covenant
 
 ## Questions?
 
-Open a [discussion](https://github.com/ai-navigator/ai-navigator/discussions) or reach out on the issue tracker.
+Open a [discussion](https://github.com/haotong-Duan/ai-navigator/discussions) or reach out on the issue tracker.

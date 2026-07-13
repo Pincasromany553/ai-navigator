@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ai-navigator/ai-navigator/stargazers"><img src="https://img.shields.io/github/stars/ai-navigator/ai-navigator?style=flat-square" alt="Stars"></a>
-  <a href="https://github.com/ai-navigator/ai-navigator/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ai-navigator/ai-navigator?style=flat-square" alt="License"></a>
-  <a href="https://github.com/ai-navigator/ai-navigator/releases"><img src="https://img.shields.io/github/v/release/ai-navigator/ai-navigator?style=flat-square" alt="Release"></a>
-  <a href="https://github.com/ai-navigator/ai-navigator/issues"><img src="https://img.shields.io/github/issues/ai-navigator/ai-navigator?style=flat-square" alt="Issues"></a>
+  <a href="https://github.com/haotong-Duan/ai-navigator/stargazers"><img src="https://img.shields.io/github/stars/haotong-Duan/ai-navigator?style=flat-square" alt="Stars"></a>
+  <a href="https://github.com/haotong-Duan/ai-navigator/blob/main/LICENSE"><img src="https://img.shields.io/github/license/haotong-Duan/ai-navigator?style=flat-square" alt="License"></a>
+  <a href="https://github.com/haotong-Duan/ai-navigator/releases"><img src="https://img.shields.io/github/v/release/haotong-Duan/ai-navigator?style=flat-square" alt="Release"></a>
+  <a href="https://github.com/haotong-Duan/ai-navigator/issues"><img src="https://img.shields.io/github/issues/haotong-Duan/ai-navigator?style=flat-square" alt="Issues"></a>
   <a href="https://tauri.app"><img src="https://img.shields.io/badge/built%20with-Tauri-FFC131?style=flat-square" alt="Tauri"></a>
   <a href="https://react.dev"><img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react" alt="React"></a>
   <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript" alt="TypeScript"></a>
@@ -59,7 +59,7 @@
 
 ### Download
 
-Grab the latest release for your platform from the [Releases page](https://github.com/ai-navigator/ai-navigator/releases):
+Grab the latest release for your platform from the [Releases page](https://github.com/haotong-Duan/ai-navigator/releases):
 
 - **macOS:** `AI Navigator_x.x.x_aarch64.dmg` (Apple Silicon) or `AI Navigator_x.x.x_x64.dmg` (Intel)
 - **Windows:** `AI Navigator_x.x.x_x64_en-US.msi`
@@ -110,7 +110,7 @@ sudo dnf install webkit2gtk4.1-devel openssl-devel gtk3-devel \
 ### Quick start
 
 ```bash
-git clone https://github.com/ai-navigator/ai-navigator.git
+git clone https://github.com/haotong-Duan/ai-navigator.git
 cd ai-navigator
 npm install
 npm run tauri:dev
